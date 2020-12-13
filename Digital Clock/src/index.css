@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0%;
+
+}
+
+.main{
+    margin : 250px ;
+    font-size: 60px;
+    text-align: center;
+}
+
