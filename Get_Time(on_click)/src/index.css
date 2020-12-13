@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0%;
+
+}
+
+.main{
+    margin : 250px 500px;
+    font-size: 30px;
+}
+
+.cnt{
+    text-align: center;
+}
+
+.btn{
+    width: max-content;
+    font-size: 30px;
+    margin-left: 25%;
+    background-color: lightgreen;
+    cursor: pointer;
+}
