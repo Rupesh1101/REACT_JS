@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0%;
+    background-color: lightskyblue;
+}
+
+.container{
+    margin : 250px ;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.container>form>input{
+    background-color: rgba(103, 222, 243, 0.993);
+    border-color: firebrick;
+}
+.container>form>button{
+    background-color: lawngreen;
+}
+
